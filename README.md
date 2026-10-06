@@ -81,17 +81,8 @@ We added information about some Oasis band members:
 
 Their roles in the band are also shown.
 
-### 6. Website Design
 
-We used an external CSS file to style the website.
-
-We used different colors, fonts, spacing and borders to keep the same style on the website.
-
-We also used Flexbox and Grid to organize different parts of the page.
-
-Buttons and links have hover effects to make the website more interactive.
-
-### 7. Responsive Design
+### 6. Responsive Design
 
 We made the website responsive for computers, tablets and phones.
 
