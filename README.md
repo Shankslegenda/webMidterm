@@ -4,113 +4,104 @@ Aldiyar Bratan:45%
 Baglan(major):27.5%
 Dimash:27.5%
 
+# Oasis Playlist
+
+## Project Title
+
 Oasis Playlist
 
-Project Title
-
-Oasis Playlist
-
-Project Topic
+## Project Topic
 
 Our project is a music website about the band Oasis.
 
-Group Members
+## Group Members
 
-Aldiyar
-Baglan
-Dimash
+1. Aldiyar
+2. Baglan
+3. Dimash
 
-Project Description
+## Project Description
 
-This website is about Oasis. It includes some of their popular songs, albums and information about the band members.
+Oasis Playlist is a website about the band Oasis. The website contains information about their songs, albums and band members.
 
-We wanted to make the website simple and easy to use on different screen sizes.
+We tried to make the website simple, clear and responsive for different screen sizes.
 
-Features
+## Features
 
-1. Header and Navigation
+### 1. Header and Navigation
 
-At the top of the website, we made a header with the Oasis Playlist name and a navigation menu.
+We made a header with the Oasis Playlist name and navigation menu.
 
-The navigation includes:
-
-Home
-
-Songs
-
-Albums
-
-Artists
-
-2. Main Section
-
-The main section shows information about Oasis and the song Don't Look Back in Anger.
+The navigation helps users move between different sections of the website.
 
 It includes:
+- Home
+- Songs
+- Albums
+- Artists
 
-Song information
+We used Flexbox to organize the header and navigation.
 
-Artist name
+### 2. Main Section
 
-Album name
+The main section introduces Oasis and shows the song Don't Look Back in Anger.
 
-Play Now button
+It includes:
+- Song information
+- Artist name
+- Album name
+- Play Now button
+- Now Playing section
 
-Now Playing section
+### 3. Favorite Songs
 
-3. Favorite Songs
+We added a table with some popular Oasis songs.
 
-We added a table with five Oasis songs.
+The table shows:
+- Song number
+- Song name
+- Album name
 
-The table includes:
+### 4. Albums
 
-Song number
+The albums section shows some Oasis albums:
+- Definitely Maybe
+- (What's the Story) Morning Glory?
+- Be Here Now
 
-Song name
+Each album has an image, album name and release year.
 
-Album name
+### 5. Band Members
 
-4. Albums
+We added information about some Oasis band members:
+- Noel Gallagher
+- Liam Gallagher
+- Paul Arthurs
+- Gem Archer
 
-In the albums section, we added three Oasis albums:
+Their roles in the band are also shown.
 
-Definitely Maybe
+### 6. Website Design
 
-(What's the Story) Morning Glory?
+We used an external CSS file to style the website.
 
-Be Here Now
+We used different colors, fonts, spacing and borders to keep the same style on the website.
 
-For each album, we added an image, album name and release year.
+We also used Flexbox and Grid to organize different parts of the page.
 
-5. Band Members
+Buttons and links have hover effects to make the website more interactive.
 
-We also added some Oasis band members:
+### 7. Responsive Design
 
-Noel Gallagher
+We made the website responsive for computers, tablets and phones.
 
-Liam Gallagher
+We used media queries for different screen sizes.
 
-Paul Arthurs
+The main breakpoints are:
+- 768px for tablets
+- 480px for phones
 
-Gem Archer
+On smaller screens, some elements move from horizontal to vertical to fit the screen better.
 
-Their roles in the band are shown under their names.
-
-6. CSS Design
-
-For the design, we used CSS.
-
-
-
-7. Responsive Design
-
-We used media queries to make the website work on different screen sizes.
-
-We used two breakpoints:
-
-768px for tablets
-
-480px for phones
-
-On smaller screens, some sections change their layout. The main section becomes vertical, and the navigation also becomes vertical on phones.
+We also used Bootstrap for some responsive elements and layout.
 
