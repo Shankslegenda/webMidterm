@@ -119,7 +119,7 @@ td {
 }
 
 .image {
-  height: 120px;
+  height: 380px;
   background-color: #ddd;
   margin-bottom: 10px;
   background-size: cover;
@@ -127,15 +127,15 @@ td {
 }
 
 .image1 {
-  background-image: url('https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=800&q=80');
+  background-image: url(https://thumb.wikimedia.org/wikipedia/ru/thumb/c/ce/Uk_definitly_maybe_lg.jpg/330px-Uk_definitly_maybe_lg.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail);
 }
 
 .image2 {
-  background-image: url('https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&w=800&q=80');
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/b/b1/Oasis_-_%28What%27s_The_Story%29_Morning_Glory_album_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original);
 }
 
 .image3 {
-  background-image: url('https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=800&q=80');
+  background-image: url(https://thumb.wikimedia.org/wikipedia/en/thumb/0/08/BeHereNowcover.jpg/250px-BeHereNowcover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail);
 }
 
 .footer {
@@ -152,6 +152,7 @@ td {
 
   .hero-text,
   .hero-box {
+    
     width: 100%;
   }
 }
